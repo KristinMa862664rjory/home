@@ -1,6 +1,6 @@
 [
   {
-    "icon": "BuildingShop16Regular",
+    "icon": "ShoppingCart",
     "name": "菜狗的使命召唤小店",
     "link": "https://shop.caigou.link/"
   },
@@ -10,12 +10,12 @@
     "link": "https://pan.caigoux.cn/"
   },
   {
-    "icon": "GroupAddRound",
+    "icon": "PeopleArrows",
     "name": "加入菜狗的群",
     "link": "https://z.d4t.cn/HsSA8k"
   },
   {
-    "icon": "Document24Filled",
+    "icon": "Book",
     "name": "软件下载地址/使用教程",
     "link": "https://caigou.flowus.cn/"
   }
